@@ -1,0 +1,4 @@
+/workspace/total_station/build/CMakeFiles/rebuild_cache.dir
+/workspace/total_station/build/CMakeFiles/Get3.dir
+/workspace/total_station/build/CMakeFiles/edit_cache.dir
+/workspace/total_station/build/CMakeFiles/Get6.dir

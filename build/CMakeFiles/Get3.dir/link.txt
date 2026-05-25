@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/Get3.dir/src/Get3.cpp.o  -o Get3 

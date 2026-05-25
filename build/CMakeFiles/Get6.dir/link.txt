@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/Get6.dir/src/Get6.cpp.o  -o Get6 
